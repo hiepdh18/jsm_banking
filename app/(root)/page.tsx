@@ -5,9 +5,9 @@ import React from "react";
 
 const Home = () => {
   const loggedIn = {
-    id: 1,
+    $id: 1,
     firstName: "Henry",
-    lastName: "Do",
+    astName: "Do",
     email: "hiepdh18@gmail.com",
     userId: "string",
     dwollaCustomerUrl: "",
